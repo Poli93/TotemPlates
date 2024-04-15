@@ -35,7 +35,7 @@ local Table = {
       ["Treant"] = true,
    },
    xOfs = 0,
-   yOfs = 0,
+   yOfs = 15, -- change to increase/decrease totem height
    Scale = 0.8,
 }
 
